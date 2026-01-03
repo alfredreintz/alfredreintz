@@ -1,6 +1,19 @@
 ## Alfred Reintz
 
-Engineering student(freshman) at Chalmers University of Technology - Information Technology
+#### Engineering student(freshman) at Chalmers University of Technology - Information Technology
+
+**Repositories** 
+- School projects
+- Private Projects
+(see README files in repositories for this information)
+
+**Programming**
+- Languages
+  - **Programming** Python, C#, JavaScript, PHP, SQL
+  - **Markup** HTML (including Bootstrap), CSS
+
+**Contact**
+Email: alfred.reintz@icloud.com
 <!--
 **alfredreintz/alfredreintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
