@@ -10,7 +10,7 @@
 **Programming**
 - Languages
   - **Programming** Python, C#, JavaScript, PHP, SQL
-  - **Markup** HTML (including Bootstrap), CSS
+  - **Markup** HTML (including Bootstrap), CSS, Markdown, LaTeX
 
 **Contact**
 
