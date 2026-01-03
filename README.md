@@ -1,6 +1,6 @@
 ## Alfred Reintz
 
-#### Engineering student(freshman) at Chalmers University of Technology - Information Technology
+### Engineering student(freshman) at Chalmers University of Technology - Information Technology
 
 **Repositories** 
 - School projects
