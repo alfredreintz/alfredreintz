@@ -5,10 +5,11 @@
 **Repositories** 
 - School projects
 - Private Projects
+
 (see README files in repositories for this information)
 
 **Programming**
-- Languages
+- **Languages**
   - **Programming** Python, C#, JavaScript, PHP, SQL
   - **Markup** HTML (including Bootstrap), CSS, Markdown, LaTeX
 
