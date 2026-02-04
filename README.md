@@ -8,11 +8,6 @@
 
 (see README files in repositories for this information)
 
-**Programming**
-- **Languages**
-  - **Programming** Python, C#, JavaScript, PHP, SQL
-  - **Markup** HTML (including Bootstrap), CSS, Markdown, LaTeX
-
 **Contact**
 
 Email: alfred.reintz@icloud.com
