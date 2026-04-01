@@ -6,10 +6,7 @@
 - School projects
 - Private Projects
 
-(see README files in repositories for this information)
-
 **Contact**
-
 Email: alfred.reintz@icloud.com
 <!--
 **alfredreintz/alfredreintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
