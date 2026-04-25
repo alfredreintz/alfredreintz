@@ -1,6 +1,6 @@
 ## Alfred Reintz
 
-### Swedish engineering student at [Chalmers University of Technology](https://www.chalmers.se/) -> [Information Technology](https://www.chalmers.se/utbildning/hitta-program/informationsteknik-civilingenjor/)
+### Swedish engineering student at [Chalmers University of Technology](https://www.chalmers.se/en/) > [Information Technology](https://www.chalmers.se/utbildning/hitta-program/informationsteknik-civilingenjor/)f
 
 **Repositories** 
 - School Projects
