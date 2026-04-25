@@ -1,10 +1,11 @@
 ## Alfred Reintz
 
-### Engineering student at Chalmers University of Technology - Information Technology
+### Swedish engineering student at [Chalmers University of Technology](https://www.chalmers.se/) - Information Technology
 
 **Repositories** 
-- School projects
+- School Projects
 - Private Projects
+- For Fun
 
 **Contact**
 Email: alfred.reintz@icloud.com
